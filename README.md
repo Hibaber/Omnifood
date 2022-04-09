@@ -1,3 +1,4 @@
 # Omnifood
- Practicing with Css fundamentals by cloning omnifood website
- PS: Still not finished, to be update soon
+ Practicing with Css fundamentals by cloning Omnifood website
+ 
+ PS: Still in progress
